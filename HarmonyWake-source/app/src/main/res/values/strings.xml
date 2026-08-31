@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Harmony Wake</string>
+    <string name="accessibility_service_label">Harmony Wake 自动上划与操作</string>
+    <string name="accessibility_service_description">用于定时亮屏后的非安全上划解锁，并在用户配置自动化步骤时读取当前界面的无障碍控件树以查找指定文字、点击控件或执行手势。不会绕过 PIN、密码或图案认证。</string>
+</resources>
