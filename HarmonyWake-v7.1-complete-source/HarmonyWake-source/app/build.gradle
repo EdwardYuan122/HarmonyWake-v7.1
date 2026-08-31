@@ -1,0 +1,19 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'com.oai.harmonywake'
+    compileSdk 33
+
+    defaultConfig {
+        applicationId 'com.oai.harmonywake'
+        minSdk 23
+        targetSdk 28
+        versionCode 7
+        versionName '1.7.0'
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
