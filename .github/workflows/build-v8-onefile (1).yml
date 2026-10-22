@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - '.github/workflows/build-v8-onefile.yml'
+      - '.github/workflows/build-v8-onefile (1).yml'
 
 permissions:
   contents: read
